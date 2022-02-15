@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contáctanos on AsoBioQ</title>
-    <link>https://asobioq.github.io/contact/</link>
+    <link>https://asobioqu.github.io/contact/</link>
     <description>Recent content in Contáctanos on AsoBioQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Jul 2018 15:53:27 +0600</lastBuildDate><atom:link href="https://asobioq.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Jul 2018 15:53:27 +0600</lastBuildDate><atom:link href="https://asobioqu.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
